@@ -9,4 +9,5 @@ import org.junit.runner.RunWith;
 
 //@CucumberOptions(features="src/test/resources/features/consult_dictionary/LookupADefinition.feature")
 //@CucumberOptions(glue = "smoketests.stepdefinitions", features = "classpath:features")
+
 public class DefinitionTestSuite {}
